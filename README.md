@@ -23,7 +23,7 @@ A Cloudflare Worker script to connect WordPress to Telegram, enabling the WP Tel
 1. **Clone or Download the Repository**:
 
    - Clone this repository: `git clone https://github.com/yourusername/wp-telegram-poster-cloudflare-worker.git`.
-   - Or download the ZIP file and extract it.
+   - Or [download the ZIP file](https://github.com/majidnazari65/wp-telegram-poster-cloudflare-worker/archive/refs/heads/main.zip) and extract it.
 
 2. **Create a Cloudflare Worker**:
 
@@ -91,7 +91,7 @@ A Cloudflare Worker script to connect WordPress to Telegram, enabling the WP Tel
 1. **کلون یا دانلود مخزن**:
 
    - این مخزن را کلون کنید: `git clone https://github.com/majidnazari65/wp-telegram-poster-cloudflare-worker.git`.
-   - یا فایل ZIP را دانلود کرده و استخراج کنید.
+   - یا [فایل ZIP](https://github.com/majidnazari65/wp-telegram-poster-cloudflare-worker/archive/refs/heads/main.zip) را دانلود کرده و استخراج کنید.
 
 2. **ایجاد ورکر کلادفلیر**:
 
